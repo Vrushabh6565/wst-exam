@@ -1,0 +1,21 @@
+Simple web application to track book 
+N books in M categories
+
+UI should have - create update delete book 
+
+Displaying books categorywise and sorted alphabetically
+
+Toggling the state between read and unread
+
+Suitable css for read and unread book
+
+Take input for :
+
+category
+Book title
+Year of publication
+
+Use AJAX for read and unread of book
+
+Serverside logic in php 
+Clientside logic in html css
