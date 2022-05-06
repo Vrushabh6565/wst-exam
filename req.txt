@@ -5,4 +5,9 @@ phpmyadmin
 create one folder and create php file and test
 start phpmyadmin
 
-php -S localhost:8000
+php -S localhost:800
+
+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
+
+github token for username theimpulse3000
+Password Github@30000
