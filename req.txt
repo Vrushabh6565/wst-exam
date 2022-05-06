@@ -1,0 +1,8 @@
+https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-phpmyadmin-on-ubuntu-20-04
+
+mysql -u root -p password : root
+phpmyadmin
+create one folder and create php file and test
+start phpmyadmin
+
+php -S localhost:8000
